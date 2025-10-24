@@ -15,6 +15,16 @@
 ## Nova Atividade
 <img width="354" height="791" alt="image" src="https://github.com/user-attachments/assets/65201a17-0218-4dad-a6e9-89fa84d39754" />
 
+Desenvolvedor
+Gabriel B. Zanon
+
+GitHub: GabrielBZanon
+
+Repositório: aula06
+
+Versão 1.0 - Sistema de Gestão Escolar Mobile
+
+
 
 
 
