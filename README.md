@@ -2,7 +2,7 @@
 Descrição do Projeto
 Sistema mobile desenvolvido para professores gerenciarem turmas e atividades educacionais de forma organizada e eficiente.
 
-# Prints do programa
+## Prints do programa
 
 ## Tela de Login
 <img width="359" height="800" alt="image" src="https://github.com/user-attachments/assets/faa9809b-73cc-458f-ab84-01d01217efd4" />
@@ -27,6 +27,7 @@ GitHub: GabrielBZanon
 Repositório: aula06
 
 Versão 1.0 - Sistema de Gestão Escolar Mobile
+
 
 
 
