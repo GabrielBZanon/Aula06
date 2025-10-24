@@ -1,3 +1,7 @@
+## Sistema de Turmas e Atividades Mobile
+Descrição do Projeto
+Sistema mobile desenvolvido para professores gerenciarem turmas e atividades educacionais de forma organizada e eficiente.
+
 # Prints do programa
 
 ## Tela de Login
@@ -23,6 +27,7 @@ GitHub: GabrielBZanon
 Repositório: aula06
 
 Versão 1.0 - Sistema de Gestão Escolar Mobile
+
 
 
 
